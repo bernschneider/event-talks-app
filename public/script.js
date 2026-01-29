@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // Fetch talks from the server
-    fetch('/api/talks')
+    fetch('talks.json')
         .then(response => response.json())
         .then(data => {
             allTalks = data;
