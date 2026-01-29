@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Jesus in the Talmud",
+    "speakers": ["Francesco Zanella"],
+    "category": ["Talmud", "Jesus", "Theology"],
+    "duration": 60,
+    "description": "An in-depth look at the references and interpretations of Jesus within the ancient Jewish text, the Talmud, exploring historical and theological perspectives."
+  },
+  {
+    "title": "Wandernde Prophetenscharen im Alten Testament",
+    "speakers": ["Peter Bernschneider"],
+    "category": ["Old Testament", "Prophets", "History"],
+    "duration": 60,
+    "description": "An exploration of the wandering bands of prophets in the Old Testament, their societal role, prophetic practices, and theological significance."
+  },
+  {
+    "title": "The Concept of Grace in Pauline Theology",
+    "speakers": ["Dr. Sarah Lee"],
+    "category": ["Pauline Theology", "Grace", "New Testament"],
+    "duration": 60,
+    "description": "A comprehensive analysis of the concept of grace as understood and taught by the Apostle Paul in his epistles, and its implications for Christian doctrine."
+  },
+  {
+    "title": "Modern Challenges to Orthodox Christology",
+    "speakers": ["Rev. John Doe", "Prof. Emily White"],
+    "category": ["Christology", "Orthodoxy", "Modern Theology"],
+    "duration": 60,
+    "description": "Examining contemporary challenges and debates surrounding traditional Orthodox Christology, and how theological thought is adapting to new perspectives."
+  },
+  {
+    "title": "Ethics in Early Christian Apocrypha",
+    "speakers": ["Dr. Michael Brown"],
+    "category": ["Ethics", "Apocrypha", "Early Christianity"],
+    "duration": 60,
+    "description": "Investigating the ethical teachings and moral frameworks presented in various early Christian apocryphal texts, comparing them to canonical scriptures."
+  },
+  {
+    "title": "The Role of Liturgy in Spiritual Formation",
+    "speakers": ["Bishop Angela Green"],
+    "category": ["Liturgy", "Spirituality", "Formation"],
+    "duration": 60,
+    "description": "A discussion on how liturgical practices contribute to and shape the spiritual development and theological understanding of believers across different traditions."
+  }
+]

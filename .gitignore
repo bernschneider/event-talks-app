@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# vscode
+.vscode/
+
+# Temp files
+*.tmp
